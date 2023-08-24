@@ -1,11 +1,23 @@
 {
   "name": "latian",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. GOOD VS EVIL\r Middle Earth is about to go to war. The forces of good will have many battles with the forces of evil. Different races will certainly be involved. Each race has a certain worth when battling against others. On the side of good we have the following races, with their associated worth:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faishalrmdhn/codewars-challenges.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Faishalrmdhn/codewars-challenges/issues"
+  },
+  "homepage": "https://github.com/Faishalrmdhn/codewars-challenges#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
 }
